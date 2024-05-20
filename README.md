@@ -13,18 +13,18 @@ This project is a Bookshop application built using React for the frontend, Node.
 
 ## Features
 
-- User authentication and authorization
+
 - Browse and search for books
 - View book details
-- Add books to the shopping cart
-- Checkout process
-- Admin panel for managing books and orders
+- CRUD functionality
+  
+
 
 ## Tech Stack
 
-- **Frontend**: React, Redux, CSS
+- **Frontend**: React, CSS
 - **Backend**: Node.js, Express
-- **Database**: SQL (MySQL/PostgreSQL)
+- **Database**: SQL (MySQL)
 
 ## Setup Instructions
 
@@ -32,7 +32,7 @@ This project is a Bookshop application built using React for the frontend, Node.
 
 - Node.js (v14 or above)
 - npm or yarn
-- SQL Database (MySQL/PostgreSQL)
+- SQL Database (MySQL)
 
 ### Installation
 
